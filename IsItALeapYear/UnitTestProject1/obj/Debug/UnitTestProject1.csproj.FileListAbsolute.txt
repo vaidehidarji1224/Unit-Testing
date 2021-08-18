@@ -1,0 +1,2 @@
+C:\Users\vaide\Documents\4th sem\ASP.NET\IsItALeapYear\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+C:\Users\vaide\Documents\4th sem\ASP.NET\IsItALeapYear\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
